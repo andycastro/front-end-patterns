@@ -54,7 +54,7 @@ A HTML code like `<body>` or
 ```
 var a = "anything";
 function (parameter){
-				...
+	...
 }
 
 ```
