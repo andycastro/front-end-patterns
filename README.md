@@ -79,7 +79,7 @@ Prefix class:
 
 * index.html
 * css
-** reset.css
+* &nbsp;reset.css
 
 
 
