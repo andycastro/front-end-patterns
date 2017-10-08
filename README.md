@@ -28,7 +28,7 @@ BlockQuotes
 > here **too**
 > and here _again_
 
-Wow, now we must write a lists (<ul> and <li>)
+Wow, now we must write a lists (ul and li)
 
 * One
 * Two
@@ -37,7 +37,7 @@ Wow, now we must write a lists (<ul> and <li>)
 
 Or
 
-*. One
-*. Two
-*. Three
+. One
+. Two
+. Three
 
