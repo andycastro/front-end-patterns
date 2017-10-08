@@ -16,4 +16,9 @@ Just a help in new web projects and studies.
 
 A simple Paragraph
 
-Emphasis _here_ and *here*
+Emphasis _here_ and **here**
+
+If link, you must to use: [Link's name](http://google.com "any message here!")
+
+E-mails? No problem, use this: <email@email.com>
+
