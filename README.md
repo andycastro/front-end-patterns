@@ -49,7 +49,15 @@ Or this, for numeric lists
 
 ## `<code>` and `<pre>`
 
-A HTML code like `<body>`
+A HTML code like `<body>` or
+
+```
+var a = "anything";
+function (parameter){
+				...
+}
+
+```
 
 
 =================================
