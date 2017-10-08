@@ -3,7 +3,7 @@ Just a help in new web projects and studies.
 
 # A little about Markdown markup
 
-#h1
+# h1
 ## H2
 ### H3
 #### H4
