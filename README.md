@@ -22,3 +22,22 @@ If link, you must to use: [Link's name](http://google.com "any message here!")
 
 E-mails? No problem, use this: <email@email.com>
 
+BlockQuotes
+
+> here we have a blockquote
+> here **too**
+> and here _again_
+
+Wow, now we must write a lists (<ul> and <li>)
+
+* One
+* Two
+* Three
+* Four
+
+Or
+
+*. One
+*. Two
+*. Three
+
