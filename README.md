@@ -75,7 +75,11 @@ Prefix class:
 <a class="btn-primary"></a>
 
 ```
+## Directory and Structure
 
+* index.html
+* css
+** reset.css
 
 
 
