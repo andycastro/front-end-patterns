@@ -1,14 +1,18 @@
 ### front-end-patterns
-Just a help in new web projects and studies.
+Hi! Here I joined some web development standards to get new easy projects and study. Feel free to increase something.
 
-# A little about Markdown
+# Summary
 
-# h1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+1. 
+
+## How to use Markdown
+
+# When I wanna a H1
+## When I wanna a H2
+### When I wanna a H3
+#### When I wanna a H4
+##### When I wanna a H5
+###### When I wanna a H6
 
 ## A simple Paragraph
 A simple Paragraph
@@ -62,5 +66,16 @@ function (parameter){
 
 =================================
 
+## Nomenclature Pattern CSS
 
----------------------------------
+Prefix class:
+
+```
+<a class="btn"></a> <!-- using prefix -->
+<a class="btn-primary"></a>
+
+```
+
+
+
+
