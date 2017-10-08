@@ -29,7 +29,7 @@ E-mails? No problem, use this: <email@email.com>
 >
 > and here _again_
 
-## Lists - Wow, now we must write a lists ('<ul>' and '<li>')
+## Lists - Wow, now we must write a lists (`<ul>` and `<li>`)
 
 * One
 * Two
@@ -47,9 +47,9 @@ Or this, for numeric lists
 ![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif)
 ![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "a simple description")
 
-## '<code>' and '<pre>'
+## `<code>` and `<pre>`
 
-A HTML code like '<body>'
+A HTML code like `<body>`
 
 
 =================================
