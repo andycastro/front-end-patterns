@@ -1,7 +1,7 @@
 ### front-end-patterns
 Just a help in new web projects and studies.
 
-# A little about Markdown markup
+# A little about Markdown
 
 # h1
 ## H2
