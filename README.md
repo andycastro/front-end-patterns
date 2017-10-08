@@ -35,9 +35,9 @@ Wow, now we must write a lists (ul and li)
 * Three
 * Four
 
-Or
+Or this, for numeric lists
 
-. One
-. Two
-. Three
+1. One
+2. Two
+3. Three
 
