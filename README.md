@@ -79,11 +79,11 @@ Prefix class:
 
 * index.html
 * css
-* &nbsp;&nbsp;&nbsp;&nbsp; -reset.css
-* &nbsp;&nbsp;&nbsp;&nbsp; -base.css
-* &nbsp;&nbsp;&nbsp;&nbsp; -components.css
-* &nbsp;&nbsp;&nbsp;&nbsp; -form.css
-* &nbsp;&nbsp;&nbsp;&nbsp; -typography.css
+  * -reset.css
+  * -base.css
+  * -components.css
+  * -form.css
+  * -typography.css
 
 
 
