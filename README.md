@@ -48,8 +48,8 @@ Or this, for numeric lists
 
 ## Images
 
-![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif)
-![Banana](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif "a simple description")
+![Oscar](https://media.giphy.com/media/T4xE7dKaxoB1u/giphy.gif)
+![Cat on Macbook](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif "a simple description")
 
 ## `<code>` and `<pre>`
 
