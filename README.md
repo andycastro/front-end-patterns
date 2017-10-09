@@ -48,8 +48,7 @@ Or this, for numeric lists
 
 ## Images
 
-![Oscar](https://media.giphy.com/media/T4xE7dKaxoB1u/giphy.gif)
-![Cat on Macbook](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif "a simple description")
+![Oscar](https://media.giphy.com/media/T4xE7dKaxoB1u/giphy.gif "a simple description")
 
 ## `<code>` and `<pre>`
 
