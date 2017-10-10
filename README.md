@@ -1,5 +1,5 @@
 ### front-end-patterns
-Hi! Here I joined some web development standards to get new easy projects and study. Feel free to increase something.
+Hi! Here I joined some web development standards to get new projects and study. Feel free to increase something.
 
 # Summary
 
